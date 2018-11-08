@@ -1,6 +1,8 @@
 """tictactoe game for 2 players
 from blogpost: http://thebillington.co.uk/blog/posts/writing-a-tic-tac-toe-game-in-python by  BILLY REBECCHI,
-slightly improved by Horst JENS"""
+slightly improved by Horst JENS
+tested by Hemil 11/8/18
+"""
 from __future__ import print_function
 
 choices = []
